@@ -1,4 +1,4 @@
-# Transitory_Archetype_Segmentation
+# TRANSITORY ARCHETYPE SEGMENTATION OF MASSACHUSETTS CENSUS BLOCK GROUPS FOR RETAIL STRATEGY
 This project aims to segment each Census Block Group (CBG) in Massachusetts based on behavioral mobility patterns and transportation accessibility in order to recommend the most suitable retail store archetype for each region. An interactive streamlit app is built to render map and lets tune in feature weights live.
 ## Key Features:
 - Transit proximity at scale: Uses GeoPandas to compute POI→nearest MBTA stop distances in meters (correct CRS handling)
