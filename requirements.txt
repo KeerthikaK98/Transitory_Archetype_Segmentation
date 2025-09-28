@@ -1,0 +1,11 @@
+streamlit
+pandas
+geopandas
+pydeck
+scikit-learn
+shapely
+pyproj
+rtree
+matplotlib
+seaborn
+numpy
